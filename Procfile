@@ -1,2 +1,1 @@
-web: python3 web.py
-worker: bash copy.sh
+web: python3 web.py && bash copy.sh
